@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29409.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Shiftregister328p", "Shiftregister328p.vcxproj", "{4224F13B-C631-473D-A7E8-44C9FF9B88A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4224F13B-C631-473D-A7E8-44C9FF9B88A9}.Debug|x64.ActiveCfg = Debug|x64
+		{4224F13B-C631-473D-A7E8-44C9FF9B88A9}.Debug|x64.Build.0 = Debug|x64
+		{4224F13B-C631-473D-A7E8-44C9FF9B88A9}.Debug|x86.ActiveCfg = Debug|Win32
+		{4224F13B-C631-473D-A7E8-44C9FF9B88A9}.Debug|x86.Build.0 = Debug|Win32
+		{4224F13B-C631-473D-A7E8-44C9FF9B88A9}.Release|x64.ActiveCfg = Release|x64
+		{4224F13B-C631-473D-A7E8-44C9FF9B88A9}.Release|x64.Build.0 = Release|x64
+		{4224F13B-C631-473D-A7E8-44C9FF9B88A9}.Release|x86.ActiveCfg = Release|Win32
+		{4224F13B-C631-473D-A7E8-44C9FF9B88A9}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {216D155A-B914-43D4-AC1D-A4573C58619E}
+	EndGlobalSection
+EndGlobal
